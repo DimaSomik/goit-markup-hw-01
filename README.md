@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Zadanie Domowe Nr. 1 - Układ HTML strony internetowej.
+Homework nr. 1 - HTML page template
